@@ -18,6 +18,12 @@ function showlist(){
     
 
     var list = document.getElementById('second-faq-list-2').style.display = "block";
-    var sec_3 = document.getElementById('section-3').style.height= "1050px";
+    var sec_3 = document.getElementById('section-3').style.height= "1400px";
+
+}
+
+function heightSet(){
+  // alert('working')
+  var sec_33 = document.getElementById('section-3').style.height= "1200px";
 
 }
